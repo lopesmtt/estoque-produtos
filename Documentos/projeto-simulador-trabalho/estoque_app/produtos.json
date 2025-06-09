@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "id": 1,
+        "nome": "Caneta",
+        "quantidade": 120,
+        "preco": 1.5
+    },
+    {
+        "id": 2,
+        "nome": "Caderno",
+        "quantidade": 40,
+        "preco": 10.0
+    }
+]
