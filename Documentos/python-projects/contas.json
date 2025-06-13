@@ -1,0 +1,39 @@
+[
+    {
+        "agencia": "0001",
+        "numero": 1,
+        "usuario": {
+            "cpf": "111111",
+            "nome": "Matheus Bernard Monteiro Lopes",
+            "nascimento": "22/01/1995",
+            "endereco": "Via Liguria 7"
+        },
+        "saldo": 2500.0,
+        "extrato": [
+            "Dep\u00f3sito: +R$ 1000.00",
+            "Dep\u00f3sito: +R$ 1500.00"
+        ],
+        "historico": [
+            "[03/06/2025 00:19:16] Dep\u00f3sito de R$ 1500.00"
+        ],
+        "limite_saque": 3,
+        "saques_hoje": 0,
+        "ultimo_saque_data": ""
+    },
+    {
+        "agencia": "0001",
+        "numero": 2,
+        "usuario": {
+            "cpf": "111111",
+            "nome": "Matheus Bernard Monteiro Lopes",
+            "nascimento": "22/01/1995",
+            "endereco": "Via Liguria 7"
+        },
+        "saldo": 0,
+        "extrato": [],
+        "historico": [],
+        "limite_saque": 3,
+        "saques_hoje": 0,
+        "ultimo_saque_data": ""
+    }
+]

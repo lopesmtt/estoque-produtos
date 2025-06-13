@@ -1,0 +1,58 @@
+[
+    {
+        "nome": "Matheus",
+        "data_nascimento": "22/01/1995",
+        "cpf": "111111",
+        "endere\u00e7o": "aaaa",
+        "contas": [
+            {
+                "numero": "111",
+                "agencia": "001",
+                "saldo": 1000.0,
+                "limite": 500,
+                "limite_saques": 3,
+                "saques_realizados": 0,
+                "historico": [
+                    "02062025 17:47:25 - Dep\u00f3sito de R$ 1000.00"
+                ]
+            },
+            {
+                "numero": "111",
+                "agencia": "001",
+                "saldo": 0.0,
+                "limite": 500,
+                "limite_saques": 3,
+                "saques_realizados": 0,
+                "historico": []
+            }
+        ]
+    },
+    {
+        "nome": "Matheus",
+        "data_nascimento": "22/01/1995",
+        "cpf": "111111",
+        "endere\u00e7o": "aaaa",
+        "contas": [
+            {
+                "numero": "111",
+                "agencia": "001",
+                "saldo": 1000.0,
+                "limite": 500,
+                "limite_saques": 3,
+                "saques_realizados": 0,
+                "historico": [
+                    "02062025 17:47:25 - Dep\u00f3sito de R$ 1000.00"
+                ]
+            },
+            {
+                "numero": "111",
+                "agencia": "001",
+                "saldo": 0.0,
+                "limite": 500,
+                "limite_saques": 3,
+                "saques_realizados": 0,
+                "historico": []
+            }
+        ]
+    }
+]
